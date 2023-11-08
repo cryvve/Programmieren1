@@ -1,4 +1,4 @@
-package Lektion1;
+package lektion1;
 
 public class Tausch {
         public static void main(String[] args)

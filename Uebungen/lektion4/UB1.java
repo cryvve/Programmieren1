@@ -1,4 +1,4 @@
-package Lektion4;
+package lektion4;
 
 public class UB1 {
     public static void main(String[] args) throws InterruptedException {
