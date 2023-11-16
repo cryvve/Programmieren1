@@ -5,8 +5,6 @@ public class UB7 {
         if (n == 0) return 1;
         else return x * potenz(x, n-1);
     }
-
-
     public static void main(String[] args) {
         System.out.println(potenz(187,4 ));
     }
